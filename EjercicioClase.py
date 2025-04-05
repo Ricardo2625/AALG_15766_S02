@@ -26,4 +26,4 @@ print(f"Candidato 2: {a2} votos ({a3 / total * 100}%)")
 print(f"Candidato 3: {a3} votos ({a3 / total * 100}%)")
 print(f"Candidato 4: {a4} votos ({a4 / total * 100}%)")
 
-print(f"\nTotal de participantes {total}")
+print(f"\nTotal de participantes: {total}")
